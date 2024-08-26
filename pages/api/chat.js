@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+const genAI = new GoogleGenerativeAI(process.env.NEXT_PUBLIC_GEMINI_API_KEY);
 
 const systemPrompt = `You are a friendly and knowledgeable customer support assistant for FitGuru, a comprehensive platform dedicated to helping users improve their fitness. Your role is to provide accurate and helpful information about supplements, workouts, meal plans, and general fitness advice. Here are your key responsibilities:
 

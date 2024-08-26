@@ -15,7 +15,7 @@ dotenv.config({ path: '../../.env.local' });
 
 // Initialize Gemini model
 const model = new ChatGoogleGenerativeAI({
-  apiKey: process.env.GEMINI_API_KEY,
+  apiKey: process.env.NEXT_PUBLIC_GEMINI_API_KEY,
   modelName: "gemini-pro",
   temperature: 0.9,
   topK: 40,
@@ -35,13 +35,13 @@ const model = new ChatGoogleGenerativeAI({
 
 // Initialize Gemini embeddings
 const embeddings = new GoogleGenerativeAIEmbeddings({
-  apiKey: process.env.GEMINI_API_KEY,
+  apiKey: process.env.NEXT_PUBLIC_GEMINI_API_KEY,
   modelName: "embedding-001", // Use the appropriate embedding model
 });
 
 // Initialize Pinecone client
 const pc = new Pinecone({
-  apiKey: process.env.PINECONE_API_KEY,
+  apiKey: process.env.NEXT_PUBLIC_PINECONE_API_KEY,
  });
 
 
@@ -49,7 +49,7 @@ async function chainretriever(){
     try{
     const vectorStore = await PineconeStore.fromExistingIndex(embeddings, {
         namespace: "HealthAndFitness",
-        pineconeIndex: pc.Index(process.env.PINECONE_INDEX_NAME), // Specify your Pinecone index
+        pineconeIndex: pc.Index(process.env.NEXT_PUBLIC_PINECONE_INDEX_NAME), // Specify your Pinecone index
       });
       //console.log("Vector store created successfully."); // Confirm vector store creation
   

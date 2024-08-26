@@ -17,7 +17,7 @@ Remember to always be supportive, encouraging, and empathetic. If a user's quest
 
 const openai = new OpenAI({
   baseURL: "https://openrouter.ai/api/v1",
-  apiKey: process.env.OPENROUTER_API_KEY,
+  apiKey: process.env.NEXT_PUBLIC_OPENROUTER_API_KEY,
   defaultQuery: { use_fallback: "true" },
   defaultHeaders: {
     "HTTP-Referer": process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",

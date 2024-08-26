@@ -9,12 +9,12 @@ import dotenv from "dotenv";
 dotenv.config({ path: '../../.env.local' });
 
 const embeddings = new GoogleGenerativeAIEmbeddings({
-  apiKey: process.env.GEMINI_API_KEY,
+  apiKey: process.env.NEXT_PUBLIC_GEMINI_API_KEY,
   modelName: "embedding-001",
 });
 
 const pc = new Pinecone({
-  apiKey: process.env.PINECONE_API_KEY,
+  apiKey: process.env.NEXT_PUBLIC_PINECONE_API_KEY,
 });
 
 export default async function handler(req, res) {
@@ -30,7 +30,7 @@ export default async function handler(req, res) {
       // Check if the video is already in the vector store
       const vectorStore = await PineconeStore.fromExistingIndex(embeddings, {
         namespace: "HealthAndFitness",
-        pineconeIndex: pc.Index(process.env.PINECONE_INDEX_NAME),
+        pineconeIndex: pc.Index(process.env.NEXT_PUBLIC_PINECONE_INDEX_NAME),
       });
   
       // Load and process the video
