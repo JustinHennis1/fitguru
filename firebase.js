@@ -3,13 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDKkqlfTEW4A75nbS7-Gp3vJZZuM18lQFo",
-  authDomain: "fitguru-c8e4b.firebaseapp.com",
-  projectId: "fitguru-c8e4b",
-  storageBucket: "fitguru-c8e4b.appspot.com",
-  messagingSenderId: "986454679680",
-  appId: "1:986454679680:web:943a7d84c2113918ab8665",
-  measurementId: "G-70J47F0SYN"
+  apiKey: "AIzaSyCUMZVnRhym5QHIUywfB31CgeL_OvNE6dY",
+  authDomain: "fitguru-3b312.firebaseapp.com",
+  projectId: "fitguru-3b312",
+  storageBucket: "fitguru-3b312.appspot.com",
+  messagingSenderId: "690974489855",
+  appId: "1:690974489855:web:cb07e0956f8f840b1f60ca",
+  measurementId: "G-FTF7SS5BBL"
 };
 
 // Initialize Firebase
