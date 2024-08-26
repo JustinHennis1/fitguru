@@ -1,0 +1,2203 @@
+What is the video URL? What is your question? Loading and processing video...
+Split Documents:  [
+  Document {
+    pageContent: 'all right what&amp;#39;s going on guys in this video I&amp;#39;m gonna be taking you through some minimalistic workouts that&amp;#39;ll take you under 45 minutes per session so this is a two day per week routine however if you have more training days available than that I&amp;#39;ll also explain how you can modify these two workouts into a three day per week four day per week or five day per week schedule so everything you need to know to set up your own minimalistic training split will be laid out in this video and throughout these workouts we&amp;#39;ll be applying many of the fundamental minimalist training principles that I discussed in my last video which I&amp;#39;ll link Down Below in case you missed it alright let&amp;#39;s get started with full body day one so after two to three minutes of brisk walking on the treadmill in a few dynamic stretches just a few arm swings and a few leg swings is fine we&amp;#39;re kicking things off with two sets of flat dumbbell press the first',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'minutes of brisk walking on the treadmill in a few dynamic stretches just a few arm swings and a few leg swings is fine we&amp;#39;re kicking things off with two sets of flat dumbbell press the first set will be a heavy set for four to six reps and the second set will be a lighter back off set for 8 to 10 reps so we&amp;#39;ll get our strength set in first and then do our hippertrophy set now there are two reasons why we&amp;#39;re doing a dumbbell press rather than a barbell press on a minimalist routine first dumbbells are generally more time efficient because you don&amp;#39;t need to load and unload load any plates which does chew up some time and second dumbbells allow for a greater range of motion than the barbell this normally isn&amp;#39;t a big deal because we can compensate for the barbell&amp;#39;s minor limitation by also including a stretch focused exercise like a cable fly however on a minimalist routine we&amp;#39;re trying to minimize the number of exercises we do so',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'the barbell&amp;#39;s minor limitation by also including a stretch focused exercise like a cable fly however on a minimalist routine we&amp;#39;re trying to minimize the number of exercises we do so in this case it makes more sense to choose a pressing exercise that also provides a large stretch on the pecs so a dumbbell press or a dip would probably be your best options now from a technique standpoint I recommend lowering the dumbbells down with a slight elbow tuck at around 30 to 45 degrees when viewed from the top and then as I press I&amp;#39;ll flare my elbows out if you feel any shoulder discomfort when you flare it&amp;#39;s fine to just keep your elbows tucked the entire time okay after that we&amp;#39;re moving on to the dumbbell Romanian deadlift for two sets of eight to ten reps again I&amp;#39;m going for the dumbbells here mainly because they tend to be a bit more time efficient but the biomechanics of the exercise will be the same whether you use dumbbells or a barbell',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'again I&amp;#39;m going for the dumbbells here mainly because they tend to be a bit more time efficient but the biomechanics of the exercise will be the same whether you use dumbbells or a barbell the main thing to keep in mind with the RDL is to Simply push your butt as you allow the weight to drop straight down under control don&amp;#39;t think about lowering the weight to touch the floor simply set your hips back and let the dumbbells naturally lower in a straight line reversing the motion once you feel a big stretch in your hamstrings without allowing your lower back to round I like to maintain a nice smooth Cadence on these where I don&amp;#39;t fully lock out at the top and this helps me keep tension on my hamstrings however if you did want to activate the glutes a bit more you could lock the hips at the top and squeeze your glutes together I&amp;#39;d also strongly recommend using straps for these so that your grip strength doesn&amp;#39;t limit the amount of tension your',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'could lock the hips at the top and squeeze your glutes together I&amp;#39;d also strongly recommend using straps for these so that your grip strength doesn&amp;#39;t limit the amount of tension your hamstrings receive next we&amp;#39;re doing a two grip lat pull down for two sets of 10 to 12 reps using a different grip for each set so for the first set we&amp;#39;re doing an overhand middle grip to Target the mid back and the lats and then on the second set we&amp;#39;re doing an underhand close grip to Target the biceps a bit more and to hit the lats from a slightly different angle then after the second set to get a little more bicep work you can strip the weight back and do some overhead curls this way we&amp;#39;ll make sure the high threshold bicep fibers experience a high level of muscular tension as well okay after that we&amp;#39;re moving on to a single working set of 8 to 10 reps per leg on the dumbbell step up this will be our main quad and glute Focus movement for the day',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'tension as well okay after that we&amp;#39;re moving on to a single working set of 8 to 10 reps per leg on the dumbbell step up this will be our main quad and glute Focus movement for the day now one thing to remember about minimalistic training is that because we&amp;#39;re often only doing one single set for some exercises it&amp;#39;s very important that we execute that set as perfectly as possible in this case we want to be forcing our front leg to carry all the load so minimize cheating with your back leg as much as possible and remember that it&amp;#39;s just there for keeping balance I prefer to work each leg one leg at a time because that way you&amp;#39;re not losing tension in between reps which can really drag the set out another thing you may notice is that you need to go heavier than you think most people stop well shy of failure on step ups and lunges so to get to failure or at least within one rep of failure you&amp;#39;ll probably need heavier weights than',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'to go heavier than you think most people stop well shy of failure on step ups and lunges so to get to failure or at least within one rep of failure you&amp;#39;ll probably need heavier weights than you&amp;#39;d normally use and again using straps is smart since they&amp;#39;ll prevent your grip strength from being a limiting factor up next we&amp;#39;ve got one set of 12 to 15 reps plus a drop set on the overhead cable tricep extension the reason I&amp;#39;m going with the overhead tricep extension rather than a regular press down is that the triceps will already be hit in a more neutral shoulder position with the flat dumbbell press so it&amp;#39;d be a bit more redundant to also hit them with a press down also a new 2022 study from mayo and colleagues found that overhead tricep extensions resulted in about 40 percent more hypertrophy compared to regular press Downs even when volume matched which is pretty huge now there&amp;#39;s been quite a lot of noise about this study online',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'resulted in about 40 percent more hypertrophy compared to regular press Downs even when volume matched which is pretty huge now there&amp;#39;s been quite a lot of noise about this study online some people claim that the results are most likely a fluke however according to the mass research review it was a very well designed study and there are at least three plausible explanations for why overhead extensions led to substantially more muscle growth than press Downs so while I wouldn&amp;#39;t put too much stock in a single study like this if you are limited on time and can only fit in one tricep isolation movement I would favor an overhead tricep extension more than press Downs okay so for these you want to lock your elbow in place with the cable just behind your head squeeze your triceps to move the weight and then lower the weight back down under control and try to feel a nice big stretch at the bottom after reaching failure once I&amp;#39;ll drop the weight back by about 30 to 40',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'to move the weight and then lower the weight back down under control and try to feel a nice big stretch at the bottom after reaching failure once I&amp;#39;ll drop the weight back by about 30 to 40 percent and then take the triceps to failure once okay after that we&amp;#39;ve got one set of 12 to 15 reps plus another drop set on the machine lateral raise I personally use this Atlantis standing lateral raise machine at my gym mostly because I find I can get a much larger range of motion here while maintaining consistent tension on my side delts however if you don&amp;#39;t have this machine you can use a seated machine option or a cable machine or even dumbbells as long as you&amp;#39;re taking the muscle to failure with good form the fibers will be maximally recruited regardless also strap in again here so I can use only my side delts to sweep the weight out as opposed to relying on my grip and more specifically my thumb to support the weight again I use a larger than usual ROM on',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'in again here so I can use only my side delts to sweep the weight out as opposed to relying on my grip and more specifically my thumb to support the weight again I use a larger than usual ROM on these but if that ROM isn&amp;#39;t comfortable for you you can just stop at 90 degrees so parallel to the floor and again as long as you&amp;#39;re taking the set to failure the total activation level will be very similar and again after reaching failure I&amp;#39;ll drop the weight by 30 to 40 percent and go to failure again to really finish the fibers off I&amp;#39;m getting a little extra volume without killing too much time by doing a whole other set okay and to finish off the First full body day of the week we&amp;#39;re doing one set of 12 to 50 reps on the horizontal tow press for the calves now doing calf raises on a leg press machine is the exact same basic movement pattern as doing them on a standing calf raise machine because on both exercises your leg is straight Not Bent however',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'now doing calf raises on a leg press machine is the exact same basic movement pattern as doing them on a standing calf raise machine because on both exercises your leg is straight Not Bent however when you&amp;#39;re seated your upper body doesn&amp;#39;t have to bear any of the load so I find that I&amp;#39;m able to get a better mind muscle connection with my calves when I do calf raises on a seated leg press machine and once again after reaching failure I&amp;#39;ll drop the weight back by 30 to 40 percent and go to failure again one thing to keep in mind with the calves is to make sure you don&amp;#39;t start bouncing on the drop set reps a lot of people have a tendency to let loose once fatigue starts setting in but you&amp;#39;ll get the most out of the set if you keep your form locked in and remember each and every rep should have a nice one second or so pause at the bottom and a full squeeze at the top okay let&amp;#39;s jump into full body day two on the second day',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'form locked in and remember each and every rep should have a nice one second or so pause at the bottom and a full squeeze at the top okay let&amp;#39;s jump into full body day two on the second day we&amp;#39;re kicking things off with the hack squat doing one heavy top set for four to six reps and then one lighter back offset for eight to ten reps now the reason I&amp;#39;m going for the hack squat is because on a minimalist routine you can often get a way with less warm-up sets on machines than on free weight compound exercises for example with barbell back squats it&amp;#39;ll sometimes take me a half an hour just to get all my warm-up sets done whereas with the hack squat I&amp;#39;ll just hit two maybe three quick warm-up sets and then I&amp;#39;m doing my working sets within five or ten minutes tops so for the first heavy top set I&amp;#39;m choosing a weight that&amp;#39;ll have me about one rep shy of failure so an RP of nine for four to six reps and here I&amp;#39;m just',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'or ten minutes tops so for the first heavy top set I&amp;#39;m choosing a weight that&amp;#39;ll have me about one rep shy of failure so an RP of nine for four to six reps and here I&amp;#39;m just focusing on moving the weight I&amp;#39;m thinking about driving through my heels while maintaining consistent pressure against the shoulder pads and after the first heavy set I&amp;#39;ll rest for about three minutes and then for the back offset I&amp;#39;ll drop the weight back and this time focus a little more on controlling the negative and feeling my quads working this is more of the hypertrophy set so I&amp;#39;m focusing more on the Mind muscle connection rather than just moving the weight and on both sets I&amp;#39;m getting to full depth and purposefully allowing my knees to come forward past my toes which is perfectly safe and I can link another video on that down below okay after that we&amp;#39;re doing an antagonistic superset for the chest and back now an antagonistic superset',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'past my toes which is perfectly safe and I can link another video on that down below okay after that we&amp;#39;re doing an antagonistic superset for the chest and back now an antagonistic superset is when you train two opposing muscle groups back to back without rest I&amp;#39;m a big fan of these because one muscle will be working while the other is resting so in this case we&amp;#39;re doing two sets of a high incline Smith machine press to Target the pecs shoulders and triceps and then we&amp;#39;re supersetting that with a t-bar row to hit the mid traps lats rear delts and to some extent the biceps with the incline press I&amp;#39;m setting the bench angle a bit higher than usual so around 45 to 60 degrees and I&amp;#39;m doing that so the delts get more involved rather than doing both a vertical press and a horizontal press we&amp;#39;re just meeting in the Middle with a high incline press to save on time and this will do a good job of hitting the pecs and the shoulders with a',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'a vertical press and a horizontal press we&amp;#39;re just meeting in the Middle with a high incline press to save on time and this will do a good job of hitting the pecs and the shoulders with a single movement we&amp;#39;re also taking a slightly closer grip so we can take the triceps through a greater range of motion and this will shift some of the emphasis to the upper pecs as well which is a weak point for most people then we&amp;#39;re supersetting this with 10 to 12 reps on the t-bar row now my gems t-bar row machine is right next to the Smith machine so I can superset these two easily but if your gym has these two machines further apart instead you can just flip around on the bench grab some dumbbells and do some chest supported incline dumbbell rows instead of t-bar rows for the same sets and Reps now I&amp;#39;m doing t-bar rows I&amp;#39;ll usually do one set with a wider grip and one set with a closer grip just to Target the back from slightly different angles and I should',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'sets and Reps now I&amp;#39;m doing t-bar rows I&amp;#39;ll usually do one set with a wider grip and one set with a closer grip just to Target the back from slightly different angles and I should also point out that even though we are super setting I&amp;#39;ll still rest for about 30 seconds to a minute in between the two exercises so just because you&amp;#39;re super setting and you&amp;#39;re going back and forth doesn&amp;#39;t mean you need to go straight to the other exercise getting a little rest in between to catch your breath is a good idea so in practice the Super Saddle looks something more like this which still saves on time but allows me to recuperate more in between supersets alright after that we&amp;#39;re moving on to one set of 10 to 12 reps on the seated hamstring curl plus a drop set a recent 2020 study showed greater hamstrings growth with seated leg curls over lying leg curls across a 12-week training study so if we&amp;#39;re given the option to do only one I',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'plus a drop set a recent 2020 study showed greater hamstrings growth with seated leg curls over lying leg curls across a 12-week training study so if we&amp;#39;re given the option to do only one I pretty much always favor seated leg curls these days and because this difference seems to be related to the higher degree of stretch you get on the hamstrings with the seated variation I&amp;#39;ll accentuate this effect by leaning forward over the machine throughout the set and then since we&amp;#39;re only doing one set here we&amp;#39;re taking it all the way to failure and then dropping the weight back by 30 to 40 percent and going to failure again then we&amp;#39;re doing one set of 12 to 15 reps on the Easy Bar bicep curl plus some Maya reps again just one all-out set to failure here so we want to make sure we execute that set as perfectly as possible so I&amp;#39;m focusing on curling the weight out and up not just up and thinking about driving through my pinky to cue for supination',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'want to make sure we execute that set as perfectly as possible so I&amp;#39;m focusing on curling the weight out and up not just up and thinking about driving through my pinky to cue for supination as I curl I&amp;#39;m also thinking about squeezing my biceps to move the weight and keeping a looser grip on the bar so that my forearms don&amp;#39;t take over after hitting failure with good technique we&amp;#39;re doing some mile reps to enhance the set further rather than a drop set this time so this time we&amp;#39;re going to keep the weight the same and instead of dropping the weight back we&amp;#39;ll simply rest for three to four seconds and then do another four reps then we&amp;#39;ll rest for another three to four seconds and do another four reps and we&amp;#39;ll just keep doing that until we can no longer get four reps at that point the set is done now the good thing about Maya reps is that they allow you to get in a lot more high tension reps in a short period of time',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'that until we can no longer get four reps at that point the set is done now the good thing about Maya reps is that they allow you to get in a lot more high tension reps in a short period of time remember that it isn&amp;#39;t until near the very end of a set the Reps become maximally hypertrophic so by doing these myorep mini sets where the muscle is already very close to failure you&amp;#39;re essentially cutting out any of those early low tension reps and jumping straight to the more effective stuff all right and to finish off the workout we&amp;#39;re doing one set of cable crunches for 12 to 15 reps plus a double drop set so I like to do these kneeling with the Rope locked in over my head and then I&amp;#39;ll crunch down hard on my abs and allow my entire back to round including my lower back after reaching failure once I&amp;#39;ll drop the weight back by about 30 percent and then go to failure again and then to really finish things off we&amp;#39;ll do one more drop set this',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'lower back after reaching failure once I&amp;#39;ll drop the weight back by about 30 percent and then go to failure again and then to really finish things off we&amp;#39;ll do one more drop set this time so I&amp;#39;ll strip it back another 20 to 30 percent and then go to failure one last time now if you guys were wondering how you could adapt this to a three four or five day per week program this is how I would do it you keep most of the exercises sets and Reps the same but simply modify how you&amp;#39;d split up your volume throughout the week if you want to train three days a week I do the same full body workout number one and then split the second full body day up into an upper body day and a lower body day you could also add a little more volume to the upper lower Days by either adding an extra set for some of these exercises or you could add a few extra exercises for your individual weak points on those days if you want to train four days a week you just split up both full',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'adding an extra set for some of these exercises or you could add a few extra exercises for your individual weak points on those days if you want to train four days a week you just split up both full body workouts into two separate upper lower days so you go upper lower rest upper lower rest rest and again you can add some volume to these workouts if you find them to be a bit too short and if you want to train five days a week you could do the same basic thing but this time with an upper lower Push Pull leg split done five days per week or if you want to have all this work done for you you can check out my new 12-week Essentials program which just launched this week over on jeffnipper.com it&amp;#39;s made up of workouts very similar to the ones in this video that are designed to get you in and out of the gym in under 45 minutes it comes in a two day per week three day per week four day per week and five day per week version and I&amp;#39;m gonna leave it at 20 off for another week if',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  },
+  Document {
+    pageContent: 'and out of the gym in under 45 minutes it comes in a two day per week three day per week four day per week and five day per week version and I&amp;#39;m gonna leave it at 20 off for another week if you guys want to pick it up so that&amp;#39;s it for this one guys thank you so much for watching don&amp;#39;t forget to leave me a thumbs up if you enjoyed the video subscribe if you haven&amp;#39;t already and I&amp;#39;ll see you guys all here in the next one',
+    metadata: {
+      source: 'eMjyvIQbn9M',
+      description: 'My new ESSENTIALS Training Program: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        'Let’s goo!!! My long-awaited Essentials Program (short and intense workouts that take 45 mins) is available at the link above 😤📘 \n' +
+        '\n' +
+        'Here is a brief overview of The Essentials Program:\n' +
+        '\n' +
+        '1️⃣ - The workouts are designed to take no longer than 45 mins. These are perfect for anyone who wants to make the most of their time in the gym, but not spend half their day there.\n' +
+        '\n' +
+        '2️⃣ - This program focuses on QUALITY over quantity. We will be training at a high intensity and focusing on individual set execution to drive gains as time-efficiently as possible. \n' +
+        '\n' +
+        '3️⃣ - Even though it is a minimalistic routine time-wise there is still a lot of variety. This is important to prevent boredom and stagnation. There are a number of unique exercises and techniques I haven’t used in any of my other programs! For most exercises we will be doing just 1-3 hard sets, so we have to make them count!\n' +
+        '\n' +
+        'Here are some more details on what comes with the new program:\n' +
+        '\n' +
+        '▪️ Appropriate for all training levels (assuming you’re looking to prioritize time-efficiency)\n' +
+        '▪️ Option to train 2, 3, 4 or 5x per week.\n' +
+        '▪️ 12 week program length (3 distinct blocks to avoid monotony).\n' +
+        '▪️ Full custom Excel spreadsheet.\n' +
+        '▪️ Videos and coaching cues from me for every exercise.\n' +
+        '▪️ Exercise substitutions included.\n' +
+        '\n' +
+        'Check it out here to see if it’s right for you and your goals: https://jeffnippard.com/products/the-essentials-program\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        '** My Fundamentals Training Program: https://shop.jeffnippard.com/product/fundamentals-hypertrophy-program/\n' +
+        '\n' +
+        '** MacroFactor Diet App: http://bit.ly/jeffmacrofactor [FREE 2 week trial]\n' +
+        '\n' +
+        '** My Ultimate Guide To Body Recomposition:\n' +
+        'https://shop.jeffnippard.com/product/the-ultimate-guide-to-body-recomposition/\n' +
+        '\n' +
+        '** MASS (Monthly Research Review): https://bit.ly/jeffMASS\n' +
+        '\n' +
+        '** Rise Gym Apparel: https://rise.ca/jeff\n' +
+        '\n' +
+        '** PEScience Supplements: https://www.PEScience.com/discount/jeff\n' +
+        '\n' +
+        '** Instagram: https://instagram.com/jeffnippard\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Timestamps:\n' +
+        '\n' +
+        '0:00 - Training Minimalism Setup\n' +
+        '0:30 - Full Body Day 1\n' +
+        '6:45 - Full Body Day 2\n' +
+        '11:47 - More Minimalistic Splits\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'References:\n' +
+        '\n' +
+        'Overhead Triceps Extension Research:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/35819335/\n' +
+        'https://www.massmember.com/products/mass-subscription/categories/2151295402/posts/2161731393\n' +
+        '\n' +
+        'Hamstring Curl Study:\n' +
+        'https://pubmed.ncbi.nlm.nih.gov/33009197/\n' +
+        '\n' +
+        'Knees Over Toes video:\n' +
+        'https://www.youtube.com/watch?v=dCHLUtf--pg\n' +
+        '\n' +
+        'Training Minimalism Explained Video:\n' +
+        'https://youtu.be/xc4OtzAnVMI\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Written by Jeff Nippard\n' +
+        'Filmed by Matt Dziadecki & Jeff Nippard\n' +
+        'https://www.instagram.com/dziadecki/\n' +
+        'Edited by Jeff Nippard\n' +
+        '\n' +
+        'Music by Bankrupt Beats:\n' +
+        'https://www.youtube.com/watch?v=-FDb0SGXtVQ\n' +
+        'https://www.youtube.com/watch?v=UATziKKm0aw\n' +
+        'https://www.youtube.com/watch?v=FaA7fM9pYA4\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'In this video I cover how to set up the first week of a 2 day per week minimalist training routine. We will discuss the exercises, various cues for each movement, along with specific training techniques to make the workouts faster but still effective. Lastly, we will cover how to adapt this 2x/week program to a 3x, 4x, and 5x version.\n' +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        "About me: I'm a Canadian natural pro bodybuilder and internationally-qualified powerlifter with a BSc in biochemistry/chemistry and a passion for science. I've been training for 12 years drug-free. I'm 5'5 and fluctuate between 160 lbs (lean) and 180 lbs (bulked).\n" +
+        '\n' +
+        '-------------------------------\n' +
+        '\n' +
+        'Disclaimers: Jeff Nippard is not a doctor or a medical professional.  Always consult a physician before starting any exercise program. Use of this information is strictly at your own risk. Jeff Nippard will not assume any liability for direct or indirect losses or damages that may result from the use of information contained in this video including but not limited to economic loss, injury, illness or death.',
+      title: 'The Best Science-Based Minimalist Workout Plan (Under 45 Mins)',
+      view_count: 3608167,
+      author: 'Jeff Nippard',
+      loc: [Object]
+    },
+    id: undefined
+  }
+]
