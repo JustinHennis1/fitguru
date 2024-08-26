@@ -165,11 +165,11 @@ export default async function main(req, res) {
 
     // Format the response
     const formattedResponse = `
-${question}
+    ${question}
 
-Answer:
-${result.answer || result.output || 'No answer provided.'}
-    `.trim();
+    Answer:
+    ${result.answer || result.output || 'No answer provided.'}
+        `.trim();
 
     res.status(200).json({ 
       message: formattedResponse

@@ -14,13 +14,13 @@ function MyApp({ Component, pageProps }) {
 
   
 
-  useEffect(() => {
-    if (user) {
-      console.log('User is signed in:', user);
-    } else if (!loading) {
-      console.log('No user signed in');
-    }
-  }, [user, loading]);
+  // useEffect(() => {
+  //   if (user) {
+  //     //console.log('User is signed in:', user);
+  //   } else if (!loading) {
+  //     //console.log('No user signed in');
+  //   }
+  // }, [user, loading]);
 
   if (!mounted) {
     return null;

@@ -22,7 +22,7 @@ export default function Auth() {
       } else {
         userCredential = await signInWithEmailAndPassword(auth, email, password);
       }
-      console.log('Authentication successful:', userCredential.user);
+      //console.log('Authentication successful:', userCredential.user);
       router.push('/');
     } catch (error) {
       console.error('Authentication error:', error);
@@ -34,7 +34,7 @@ export default function Auth() {
     const provider = new GoogleAuthProvider();
     try {
       const result = await signInWithPopup(auth, provider);
-      console.log('Google Sign-in successful:', result.user);
+      //console.log('Google Sign-in successful:', result.user);
       router.push('/');
     } catch (error) {
       console.error('Google Sign-in error:', error);

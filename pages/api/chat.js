@@ -21,20 +21,12 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method Not Allowed' });
   }
 
-  res.writeHead(200, {
-    'Content-Type': 'text/event-stream',
-    'Cache-Control': 'no-cache, no-transform',
-    'Connection': 'keep-alive',
-  });
-
   try {
     const { messages } = req.body;
 
     // Validate incoming messages
     if (!messages || !Array.isArray(messages) || messages.length === 0) {
-      res.write(`data: ${JSON.stringify({ error: 'Invalid input: messages are required' })}\n\n`);
-      res.end();
-      return;
+      return res.status(400).json({ error: 'Invalid input: messages are required' });
     }
 
     const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
@@ -62,30 +54,28 @@ export default async function handler(req, res) {
       },
     });
 
-    const result = await chat.sendMessage(messages[messages.length - 1].content, {
-      onStreamStart: () => {
-        res.write(`data: ${JSON.stringify({ status: 'start' })}\n\n`);
-      },
-      onStreamContent: (content) => {
-        res.write(`data: ${JSON.stringify({ content })}\n\n`);
-      },
-      onStreamEnd: () => {
-        res.write(`data: ${JSON.stringify({ status: 'end' })}\n\n`);
-        res.end();
-      },
-    });
+    const result = await chat.sendMessage(messages[messages.length - 1].content);
+    const response = result.response;
+    const message = response.text();
 
+    res.status(200).json({ message });
   } catch (error) {
     console.error('Error calling Gemini API:', error);
 
     // Handle specific error types
     if (error.message.includes('Candidate was blocked due to SAFETY')) {
-      res.write(`data: ${JSON.stringify({ error: 'The response was blocked due to safety concerns. Please rephrase your question.' })}\n\n`);
+      res.status(400).json({
+        error: 'The response was blocked due to safety concerns. Please rephrase your question.',
+      });
     } else if (error.message.includes('Bad Request')) {
-      res.write(`data: ${JSON.stringify({ error: 'There was an error with your request. Please check your input and try again.' })}\n\n`);
+      res.status(400).json({
+        error: 'There was an error with your request. Please check your input and try again.',
+      });
     } else {
-      res.write(`data: ${JSON.stringify({ error: 'An unexpected error occurred. Please try again later.', details: error.message })}\n\n`);
+      res.status(500).json({
+        error: 'An unexpected error occurred. Please try again later.',
+        details: error.message,
+      });
     }
-    res.end();
   }
 }

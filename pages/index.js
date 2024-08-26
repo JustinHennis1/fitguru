@@ -39,7 +39,7 @@ export default function Home() {
   useEffect(scrollToBottom, [messages]);
 
   useEffect(() => {
-    console.log("isYouTubeActive: ", isYouTubeActive);
+    //console.log("isYouTubeActive: ", isYouTubeActive);
   }, [isYouTubeActive]);
 
   
@@ -47,7 +47,7 @@ export default function Home() {
     e.preventDefault();
     if (!input.trim()) return;
   
-    console.log("User input:", input);
+    //console.log("User input:", input);
   
     const command = input.split(' ')[0];
     const urlRegex = /(https?:\/\/[^\s]+)/g;
@@ -73,15 +73,15 @@ export default function Home() {
     setInput('');
   };
 
-  const sendMessage = async (content, apiEndpoint = '/api/chat') => {
+  const sendMessage = async (content, apiEndpoint = '/api/chat') => { // Default to chat API
     const userMessage = { role: 'user', content };
     setMessages(prev => [...prev, userMessage]);
     setInput('');
     setIsLoading(true);
-    console.log(userMessage);
+    //console.log(userMessage);
 
     try {
-        const response = await fetch(apiEndpoint, {
+        const response = await fetch(apiEndpoint, { // Use the provided API endpoint
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -93,31 +93,9 @@ export default function Home() {
             throw new Error('Network response was not ok');
         }
 
-        const data = response.body;
-        if (!data) {
-            throw new Error('No data received');
-        }
-
-        const reader = data.getReader();
-        const decoder = new TextDecoder();
-        let done = false;
-        let accumulatedResponse = "";
-
-        while (!done) {
-            const { value, done: doneReading } = await reader.read();
-            done = doneReading;
-            const chunkValue = decoder.decode(value);
-            accumulatedResponse += chunkValue;
-
-            setMessages(prev => {
-                const lastMessage = prev[prev.length - 1];
-                if (lastMessage.role === 'assistant') {
-                    return [...prev.slice(0, -1), { ...lastMessage, content: accumulatedResponse }];
-                } else {
-                    return [...prev, { role: 'assistant', content: accumulatedResponse }];
-                }
-            });
-        }
+        const data = await response.json();
+        //console.log(data);
+        setMessages(prev => [...prev, { role: 'assistant', content: data.message}]);
     } catch (error) {
         console.error('Error:', error);
         setMessages(prev => [...prev, { role: 'assistant', content: 'Sorry, there was an error processing your request.' }]);

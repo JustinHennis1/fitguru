@@ -23,7 +23,7 @@ export default async function handler(req, res) {
     }
     
     const { videoUrl } = req.body;
-    //console.log("VideoUrl: ", videoUrl);
+    ////console.log("VideoUrl: ", videoUrl);
   
     try {
   
@@ -46,7 +46,7 @@ export default async function handler(req, res) {
       // Add new documents to the vector store
       await vectorStore.addDocuments(splitDocs);
   
-      console.log("Vector store updated successfully.");
+      //console.log("Vector store updated successfully.");
      
       res.status(200).json({ 
         message: "Video processed successfully",
