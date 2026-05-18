@@ -30,7 +30,7 @@
     "langchain": "^0.2.14",
     "ndarray": "^1.0.19",
     "ndarray-js": "^1.0.3",
-    "next": "14.2.5",
+    "next": "14.2.35",
     "node-cache": "^5.1.2",
     "numpy": "^0.0.1",
     "openai": "^4.55.4",
